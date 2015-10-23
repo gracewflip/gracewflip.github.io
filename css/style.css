@@ -70,6 +70,12 @@ h1 {
 }
 .condition {
 	width: 500px;
+	color: #A37A00;
+}
+
+.servicep {
+	font-size: 1em;
+	color: #A37A00;
 }
 
 .condh4 {
